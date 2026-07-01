@@ -1,0 +1,7 @@
+../Core/Src/photo.c:18:6:photoInit	4
+../Core/Src/photo.c:52:6:photoLoop	7
+../Core/Src/photo.c:93:6:photoOn	2
+../Core/Src/photo.c:104:19:photoGetState	2
+../Core/Src/photo.c:112:13:photoLcdInit	1
+../Core/Src/photo.c:118:13:photoLcdClear	1
+../Core/Src/photo.c:124:13:photoLcdPrint	4

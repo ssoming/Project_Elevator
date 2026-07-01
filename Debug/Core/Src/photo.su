@@ -1,0 +1,7 @@
+../Core/Src/photo.c:18:6:photoInit	32	static
+../Core/Src/photo.c:52:6:photoLoop	24	static
+../Core/Src/photo.c:93:6:photoOn	16	static
+../Core/Src/photo.c:104:19:photoGetState	16	static
+../Core/Src/photo.c:112:13:photoLcdInit	8	static
+../Core/Src/photo.c:118:13:photoLcdClear	8	static
+../Core/Src/photo.c:124:13:photoLcdPrint	40	static
